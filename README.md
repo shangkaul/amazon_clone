@@ -1,4 +1,4 @@
-# Getting Started with  React
+# Getting Started with React
 
-Simple amazon.com clone; React
+Simple amazon.com clone built on ReactJS
 
